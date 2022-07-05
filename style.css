@@ -76,6 +76,12 @@ p {
     border-left: 5px solid rgba(255, 68, 0, 0.56);
 }
 
+#experience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left
+}
+
 footer {
     text-align: center;
 }
