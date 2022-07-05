@@ -19,6 +19,7 @@ p {
 .half-width {
     width: 50%;
     padding-left: 5%;
+    padding-right: 2%;
 }
 
 .half-width img {
@@ -67,10 +68,14 @@ p {
     padding-right: 5%;
 }
 
-#baby-web-developer {
+#full-stack-developer {
     border-left: 5px solid rgba(0, 0, 255, 0.56);
 }
 
-#full-stack-developer {
+#baby-web-developer {
     border-left: 5px solid rgba(255, 68, 0, 0.56);
+}
+
+footer {
+    text-align: center;
 }
